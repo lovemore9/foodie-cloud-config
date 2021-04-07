@@ -1,0 +1,11 @@
+## 这个文件相当于公工配置
+management:
+  security:
+    enabled: false
+  endpoints:
+    web:
+      exposure:
+        include: "*"
+  endpoint:
+    health:
+      show-details: always
