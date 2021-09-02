@@ -1,7 +1,7 @@
 # 数据库连接串以及密码
 mysql:
   url: 'jdbc:mysql://121.196.165.221:3306/foodie-dev-shop?useUnicode=true&characterEncoding=UTF-8&autoReconnect=true&useSSL=false&serverTimezone=GMT'
-  password: '{cipher}f92c41866d5975ce2ce92053e2fc44abcec829255daf51e53fb159af0ab0414f'
+  password: '{cipher}c2b58ff0b5098ead49c541d6b7aff1d76c0f5051754bffb5b3545d61d2ed7791'
 #功能开关 开启关闭注册功能
 userservice:
   registration:
